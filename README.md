@@ -18,6 +18,9 @@ The Northwind database includes 12 tables, each serving different aspects of the
 - Region: Region descriptions.
 - US_States: Details of US states.
 
+You can obtain the Northwind database for PostgreSQL from this GitHub repository:
+https://github.com/pthom/northwind_psql
+
 ## Entity-Relationship Diagram
 
 ![ER Diagram - Northwind Database](https://github.com/shinilkumars/Northwind-DB-SQL-Exploratory-Analysis/assets/173347067/4e0c036f-28fe-4855-b779-d5687141ed6c)
